@@ -1,4 +1,3 @@
-
--[x] Turn on github pages
--[x] Outline my portfolio
--[ ] Introduce myself to the world
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
